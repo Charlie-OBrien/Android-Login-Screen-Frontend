@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="login">Login</string>
+    <string name="user_email_hint">Email</string>
+    <string name="user_pass_hint">Password</string>
+    <string name="no_acct">No Account</string>
+</resources>
